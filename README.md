@@ -3,8 +3,8 @@
 developed by Sanket Khekare
 
 
-Visit https://shopecom.herokuapp.com/
-#Features
+<strong>Visit https://shopecom.herokuapp.com/</strong>
+<p><strong>Features</strong></p>
 <li>
 Listing All the products
 </li>
