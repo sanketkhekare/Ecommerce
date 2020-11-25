@@ -1,6 +1,6 @@
 # Ecommerce
 
-developed by Sanket Khekare
+<strong>developed by Sanket Khekare</strong>
 
 
 <strong>Visit https://shopecom.herokuapp.com/</strong>
